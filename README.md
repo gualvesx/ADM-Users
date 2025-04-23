@@ -1,6 +1,5 @@
 # 🚀 ADM-Users - Sistema de Gerenciamento de Usuários
 
-![Banner do Projeto](https://via.placeholder.com/1200x400/2c3e50/FFFFFF?text=ADM-Users+-+Sistema+de+Gerenciamento+de+Usuários)
 
 ## 📌 Índice
 - [Visão Geral](#-visão-geral)
@@ -39,7 +38,7 @@ O ADM-Users é um sistema completo para gerenciamento de usuários com:
 - Git
 - NPM/Yarn
 
-#Tecnologias
+## Tecnologias
 ![deepseek_mermaid_20250423_132c11](https://github.com/user-attachments/assets/b7d4dbdf-d0e2-48fe-8d10-5ce77579d058)
 
 
